@@ -1,0 +1,137 @@
+
+/* Banner Section Style */
+.top-banner{
+    position: relative;
+    padding-top: 100px;
+
+}
+.top-banner-image{
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+.top-banner-text{
+    
+    width: 100%;
+    inset: 0;
+    position: absolute;
+    top: 270px;
+}
+.first-text{
+    
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+.second-text{
+    font-size: 96px;
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Offer Section Style */
+.offer{
+    text-align: center;
+    
+}
+.discout{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.good-or-bad{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.which-catagory{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+/*party banner styles*/
+.party-banner{
+    position: relative;
+    padding-top: 100px;
+}
+.party-banner-image{
+    display: block;
+    margin: auto;
+    width: 80%;
+
+}
+.party-banner-text{
+    width: 100%;
+    inset: 0;
+    position: absolute;
+    top: 270px;;
+}
+.party-banner-text-title{
+    font-size: 96px;
+    color: white;
+    width: 50%;
+    text-align: left;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*holiday sale style*/
+.offer-details{
+    text-align: center;
+}
+.holiday-sale{
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    text-align: center;
+}
+.details-holdy-offer{
+    text-align: center;
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", serif;
+    font-size: 20px;
+    line-height: 32px;
+}
+.function{
+    text-align: center;
+}
+/* Footer Section Style */
+footer{
+    background: rgb(7, 2, 17);
+    color: white;
+    padding: 150px;
+    
+}
+.information{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+.social-media-image{
+    text-align: center;
+}
+hr{
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.footer-information{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
